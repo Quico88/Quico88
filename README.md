@@ -26,7 +26,6 @@ const juanDrewanz = {
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 <img src="	https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="	https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm">
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
@@ -40,9 +39,9 @@ const juanDrewanz = {
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomyanas&theme=blue-green" alt="tomyanas" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quico88&theme=blue-green" alt="tomyanas" /></p>
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tomyanas&show_icons=true&locale=en" alt="tomyanas" /></p> -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Quico88&show_icons=true&locale=en" alt="tomyanas" /></p>
 
 <br>
 <br>
