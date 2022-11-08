@@ -1,19 +1,18 @@
-# Hi everyone, Im Tomas Anastasio!
+# Hi everyone, I'm Juan Drewanz!
 
 <h2> About Me </h2>
 
 ```javascript 
 const tomyanas = {
+    education: ["Civil Engineer", "MBA", "Full-Stack Developer"],
     stack: {
-        frontEnd: ["JavaScript", "React.js", "Redux", "HTML5", "CSS",],
+        frontEnd: ["JavaScript", "React.js", "Redux", "HTML5", "CSS"],
         backEnd: ["Node.js", "Express"],
-        dataBase: ["Sequelize", "PostgreSQL"],
-    },
-    softSkills: ["creativity", "problem solving", "collaborative", "adaptability", "commitment", "communication"],
-    design: ["Photoshop", "Illustrator", "After Effects", "Premiere Pro"],
-    projects: ["Countries App"],
-    currentlyLearning: ["React Native", "Typescript" , "Next.js"],
-    hobbies: ["Travel", "Ski", "Kitesurfing", "Motorbike Riding"],
+        dataBase: ["Sequelize", "PostgreSQL", "MongoDB"],
+    },    
+    softSkills: ["fast-learning", "leadership", "planning", "adaptability", "proactivity", "communication"],
+    projects: ["Dogify", "Kinema"],
+    hobbies: ["Travel", "Ski", "Kitesurfing", "Tennis", "Piano"],
 };
 ```
 ---
