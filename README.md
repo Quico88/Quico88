@@ -3,7 +3,7 @@
 <h2> About Me </h2>
 
 ```javascript 
-const tomyanas = {
+const juanDrewanz = {
     education: ["Civil Engineer", "MBA", "Full-Stack Developer"],
     stack: {
         frontEnd: ["JavaScript", "React.js", "Redux", "HTML5", "CSS"],
